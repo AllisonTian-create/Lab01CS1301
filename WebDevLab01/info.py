@@ -7,7 +7,7 @@ Bob = "Images/Bob.jpg"
 Happy = "Images/Happy.jpg"
 dissapointed = "Images/dissapointed.jpeg"
 about_me = "I'm Allison Tian. I'm a first year EE major at Georgia Tech and my computer science skills are dubious. "
-catSpinning = "Images/cat-spinning.gif"
+catSpinning = "Images/cat-spinning.GIF"
 
 
 #CHANGE BELOW (OPTIONAL)
