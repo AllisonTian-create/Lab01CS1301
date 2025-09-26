@@ -1,13 +1,13 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "WebDevLab01/Images/profile.jpeg"
-bobby = "WebDevLab01/Images/BobRoss.jpg"
-Bob = "WebDevLab01/Images/Bob.jpg"
-Happy = "WebDevLab01/Images/Happy.jpg"
-dissapointed = "WebDevLab01/Images/dissapointed.jpeg"
+profile_picture = "Images/profile.jpeg"
+bobby = "Images/BobRoss.jpg"
+Bob = "Images/Bob.jpg"
+Happy = "Images/Happy.jpg"
+dissapointed = "Images/dissapointed.jpeg"
 about_me = "I'm Allison Tian. I'm a first year EE major at Georgia Tech and my computer science skills are dubious. "
-catSpinning = "WebDevLab01/Images/cat-spinning.GIF"
+catSpinning = "Images/cat-spinning.gif"
 
 
 #CHANGE BELOW (OPTIONAL)
