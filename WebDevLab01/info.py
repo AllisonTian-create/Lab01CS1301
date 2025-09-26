@@ -1,13 +1,13 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profile.jpeg"
-bobby = "Images/BobRoss.jpg"
-Bob = "Images/Bob.jpg"
-Happy = "Images/Happy.jpg"
-dissapointed = "Images/dissapointed.jpeg"
+profile_picture = "WebDevLab01/Images/profile.jpeg"
+bobby = "WebDevLab01/Images/BobRoss.jpg"
+Bob = "WebDevLab01/Images/Bob.jpg"
+Happy = "WebDevLab01/Images/Happy.jpg"
+dissapointed = "WebDevLab01/Images/dissapointed.jpeg"
 about_me = "I'm Allison Tian. I'm a first year EE major at Georgia Tech and my computer science skills are dubious. "
-catSpinning = "Images/cat-spinning.GIF"
+catSpinning = "WebDevLab01/Images/cat-spinning.GIF"
 
 
 #CHANGE BELOW (OPTIONAL)
@@ -37,9 +37,9 @@ course_data = {
     }
 experience_data = {
     "Cashier at Hunam Chinese Restaurant": (["- Packed online orders",
-                                                                          "- Served customers", "- Cut the tips off of green beans"],"Images/Hunam.jpg"),
+                                                                          "- Served customers", "- Cut the tips off of green beans"],"WebDevLab01/Images/Hunam.jpg"),
     "ArtsCamp Counselor":(["- Taught crochet class",
-                                                           "- Repaired sewing machines and helped teach sewing"],"Images/crochet.jpg")
+                                                           "- Repaired sewing machines and helped teach sewing"],"WebDevLab01/Images/crochet.jpg")
 
 }
 
@@ -71,7 +71,7 @@ spoken_data = {
     "Spanish": "Ok",
 }
 leadership_data = {
-    "Gardening Club President": (["- Gardened and stuff"],"Images/dog-farmer.png"),
+    "Gardening Club President": (["- Gardened and stuff"],"WebDevLab01/Images/dog-farmer.png"),
 
 }
 activity_data={
