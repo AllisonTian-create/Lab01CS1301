@@ -13,15 +13,6 @@ Happy = os.path.join(BASE_DIR, "Images", "Happy.jpg")
 dissapointed = os.path.join(BASE_DIR, "Images", "dissapointed.jpeg")
 catSpinning = os.path.join(BASE_DIR, "Images", "cat-spinning.gif")
 
-#profile_picture = "Images/profile.jpeg"
-#bobby = "Images/BobRoss.jpg"
-#Bob = "Images/Bob.jpg"
-#Happy = "Images/Happy.jpg"
-#dissapointed = "Images/dissapointed.jpeg"
-#about_me = "I'm Allison Tian. I'm a first year EE major at Georgia Tech and my computer science skills are dubious. "
-#catSpinning = "Images/cat-spinning.GIF"
-
-
 #CHANGE BELOW (OPTIONAL)
 linkedin_image_url = "https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg"
 github_image_url = "https://cdn-icons-png.flaticon.com/256/25/25231.png"
