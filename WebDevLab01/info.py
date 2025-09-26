@@ -1,13 +1,25 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profile.jpeg"
-bobby = "Images/BobRoss.jpg"
-Bob = "Images/Bob.jpg"
-Happy = "Images/Happy.jpg"
-dissapointed = "Images/dissapointed.jpeg"
-about_me = "I'm Allison Tian. I'm a first year EE major at Georgia Tech and my computer science skills are dubious. "
-catSpinning = "Images/cat-spinning.GIF"
+import os
+
+# get current directory of this file (info.py)
+BASE_DIR = os.path.dirname(__file__)
+
+profile_picture = os.path.join(BASE_DIR, "Images", "profile.jpeg")
+bobby = os.path.join(BASE_DIR, "Images", "BobRoss.jpg")
+Bob = os.path.join(BASE_DIR, "Images", "Bob.jpg")
+Happy = os.path.join(BASE_DIR, "Images", "Happy.jpg")
+dissapointed = os.path.join(BASE_DIR, "Images", "dissapointed.jpeg")
+catSpinning = os.path.join(BASE_DIR, "Images", "cat-spinning.gif")
+
+#profile_picture = "Images/profile.jpeg"
+#bobby = "Images/BobRoss.jpg"
+#Bob = "Images/Bob.jpg"
+#Happy = "Images/Happy.jpg"
+#dissapointed = "Images/dissapointed.jpeg"
+#about_me = "I'm Allison Tian. I'm a first year EE major at Georgia Tech and my computer science skills are dubious. "
+#catSpinning = "Images/cat-spinning.GIF"
 
 
 #CHANGE BELOW (OPTIONAL)
